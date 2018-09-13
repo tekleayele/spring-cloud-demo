@@ -1,4 +1,4 @@
-# Spring Cloud Services For Pivotal Cloud Foundry Demo Apps
+# Spring Cloud Services
 This repository contains samples apps which can be deployed to a Pivotal Cloud Foundry environment installed with Spring Cloud Services. There are two application categories, service and client. 
 
 ## Hello Service
