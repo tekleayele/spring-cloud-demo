@@ -1,0 +1,4 @@
+security.basic.enabled: false
+helloServiceUri: ${HELLO_SERVICE_URI:HELLO-SERVICE}
+spring.application.name : hello-client
+server.port: 8181

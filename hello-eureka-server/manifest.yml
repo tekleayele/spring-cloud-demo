@@ -1,0 +1,7 @@
+---
+applications:
+ - name: hello-service
+   path: build/libs/hello-eureka-server.jar
+   memory: 512M
+   services:
+    - eureka-server
