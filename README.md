@@ -3,7 +3,7 @@ This repository contains samples apps which can be deployed to a Pivotal Cloud F
 
 ## Hello Service
 hello-service is a REST service which returns a hello world message, whose value is configurable. There are three versions of this application:
-* [hello-service](hello-service): returns a value configured via configuration on the classpath 
+* [hello-service](hello-service): returns a value configured via configuration on the classpath under resources
 * [hello-service-config-server](hello-service-config-server): uses the Configuration Service to configure the hello message as well as log levels. 
 * [hello-service-eureka](hello-service-eureka): The same service above, but registers itself with the Service Registry
 
