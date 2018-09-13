@@ -1,0 +1,4 @@
+hello:
+  message: "Hello demo1"
+logging.level:
+  org.springframework: DEBUG

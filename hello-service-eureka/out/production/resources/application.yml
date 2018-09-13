@@ -1,5 +1,4 @@
 security.ignored: /
-hello.local.message: Hello local configuration
+hello.message: Hello local configuration
 spring.application.name : hello-service
-
 

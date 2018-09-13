@@ -1,0 +1,7 @@
+security.basic.enabled: false
+zuul:
+  routes:
+    test1-nozone:
+      path: /test1-nozone/**
+      serviceId: test1-nozone
+      retryable: true
