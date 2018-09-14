@@ -1,5 +1,5 @@
 # Spring Cloud Services
-This repository contains samples apps which can be deployed to a Pivotal Cloud Foundry environment installed with Spring Cloud Services. There are two application categories, service and client. 
+This repository contains samples apps which can be deployed to a Tomact/Pivotal Cloud Foundry environment installed with Spring Cloud Services. There are two application categories, service and client. 
 
 ## Hello Service
 hello-service is a REST service which returns a hello world message, whose value is configurable. There are three versions of this application:
